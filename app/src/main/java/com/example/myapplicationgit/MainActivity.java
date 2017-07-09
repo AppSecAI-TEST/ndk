@@ -15,6 +15,18 @@ public class MainActivity extends AppCompatActivity {
         System.out.print(789);
         System.out.print(159);
         System.out.print(258);
+        System.out.print(456);
+        System.out.print(457);
+        System.out.print(789);
+        System.out.print(159);
+        System.out.print(258);
+
+        System.out.print(456);
+        System.out.print(457);
+        System.out.print(789);
+        System.out.print(159);
+        System.out.print(258);
+
 
 
 
